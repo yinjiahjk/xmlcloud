@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html size="329,155">
+  <div layout="vertical" backgroundColor="white" size="329,155">
+    <space length="10"  b1ackgroundColor="green"/>
+    <div layout="horizontal" size="329,24" b1ackgroundColor="red">
+      <space length="15"  b1ackgroundColor="green"/>
+      <label color="black" fontSize="18" b1ackgroundColor="green" fontweight="bold">本周热映</label>
+      <space length="6"  b1ackgroundColor="blue"/>
+      <label color="black" fontSize="14" b1ackgroundColor="green">车主专享5折购票</label>
+      <space length="72"/>
+      <img src="http://www.xiafanty.com:32888/s/4Qi9ykCcKWBWqNG/preview" size="24,24" position="290,0"/>
+    </div>
+    <space length="10"  b1ackgroundColor="blue"/>
+    <div  layout="horizontal"  size="329,96">
+        <space length="15"  b1ackgroundColor="green"/>
+        <div layout="stack" size="68,95" radius="5">
+            <img src="https://moviepic05.iqiyipic.com/movie/2020/07/24/d69eec55d64bcd23c74622293082cfd46f22cf45.jpg@!208X148" size="68,95"/>
+            <img src="http://www.xiafanty.com:32888/s/2QKbJnrkZcFm5e6/preview" size="30,16"/>
+            <label color="white" fontSize="12" fontweight="bold" size="30,16">8.5</label>
+        </div>
+        <space length="9"  b1ackgroundColor="green"/>
+        <div layout="stack" size="68,95" radius="5">
+            <img src="http://f.hiphotos.baidu.com/movie/pic/item/b21c8701a18b87d69a44ce770f0828381f30fd50.jpg" size="68,95"/>
+            <img src="http://www.xiafanty.com:32888/s/2QKbJnrkZcFm5e6/preview" size="30,16"/>
+            <label color="white" fontSize="12" fontweight="bold" size="30,16">9.8</label>
+        </div>
+        <space length="9"  b1ackgroundColor="green"/>
+        <div layout="stack" size="68,95" radius="5">
+            <img src="http://g.hiphotos.baidu.com/movie/pic/item/9f2f070828381f30af9674e7a1014c086f06f0f5.jpg" size="68,95"/>
+            <img src="http://www.xiafanty.com:32888/s/2QKbJnrkZcFm5e6/preview" size="30,16"/>
+            <label color="white" fontSize="12" fontweight="bold" size="30,16">9.2</label>
+        </div>
+        <space length="9"  b1ackgroundColor="green"/>
+        <div layout="stack" size="68,95" radius="5">
+            <img src="http://f.hiphotos.baidu.com/movie/pic/item/2f738bd4b31c87019c8e49a82f7f9e2f0708ff40.jpg" size="68,95"/>
+            <img src="http://www.xiafanty.com:32888/s/2QKbJnrkZcFm5e6/preview" size="30,16"/>
+            <label color="white" fontSize="12" fontweight="bold" size="30,16">7.2</label>
+        </div>
+        <space length="15"  b1ackgroundColor="green"/>
+    </div>
+  </div>
+</html>

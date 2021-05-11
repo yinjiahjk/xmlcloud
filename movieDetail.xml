@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html size="329,155">
+  <div layout="horizontal" backgroundColor="white" size="329,155">
+    <space length="15"  b1ackgroundColor="green"/>
+    <div layout="stack" size="90,125" radius="5">
+        <img src="https://moviepic05.iqiyipic.com/movie/2020/07/24/d69eec55d64bcd23c74622293082cfd46f22cf45.jpg@!208X148" size="90,125"/>
+        <img src="http://www.xiafanty.com:32888/s/2QKbJnrkZcFm5e6/preview" size="30,16"/>
+        <label color="white" fontSize="12" fontweight="bold" size="30,16">9.8</label>
+    </div>
+    <space length="24"  b1ackgroundColor="green"/>
+    <div layout="vertical" size="127,93" b1ackgroundColor="blue">
+      <label color="black" fontSize="18" b1ackgroundColor="green" fontweight="bold">复仇者联盟</label>
+      <space length="12"  b1ackgroundColor="blue"/>
+      <div layout="horizontal" b1ackgroundColor="green" size="127,26">
+          <label color="#999999" fontSize="16" b1ackgroundColor="green">取票号</label>
+          <space length="10"  b1ackgroundColor="blue"/>
+          <label color="#333333" fontSize="22" b1ackgroundColor="red" fontweight="bold">6688 68</label>
+      </div>
+      <space length="8"  ba1ckgroundColor="blue"/>
+      <div layout="horizontal" backgroundColor="white" size="127,26">
+          <label color="#999999" fontSize="16" b1ackgroundColor="green">验证码</label>
+          <space length="10"  b1ackgroundColor="blue"/>
+          <label color="#333333" fontSize="22" b1ackgroundColor="red" fontweight="bold">2148 52</label>
+      </div>
+    </div>
+    <img src="http://www.xiafanty.com:32888/s/4Qi9ykCcKWBWqNG/preview" size="24,24" position="290,10"/>
+  </div>
+</html>
